@@ -43,7 +43,7 @@ y1=float(input("Ingrese el valor de y1: "))
 x2=float(input("Ingrese el valor de x2: "))
 y2=float(input("Ingrese el valor de y2: ")) 
 direccion=int(input("Ingrese a qué direccion desea moverla línea: 1=derecha, 2=izquierda, 3=arriba, 4=abajo: "))
-d=float(input("ingrese el valor que desea mover sobre el eje x:"))
+d=float(input("ingrese el valor que desea mover sobre los ejes:"))
 
 punto_a=punto(x1, y1)
 punto_b=punto(x2, y2)  
